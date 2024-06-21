@@ -14,7 +14,8 @@
 	<name>TuCine</name>
 	<description>TuCine project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+    		<maven.compiler.source>17</maven.compiler.source>
+    		<maven.compiler.target>17</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
